@@ -1,0 +1,12 @@
+D:\VisualStudio\Нова папка\Homework-Defining Classes\01.Person\bin\Debug\01.Person.exe.config
+D:\VisualStudio\Нова папка\Homework-Defining Classes\01.Person\bin\Debug\01.Person.exe
+D:\VisualStudio\Нова папка\Homework-Defining Classes\01.Person\bin\Debug\01.Person.pdb
+D:\VisualStudio\Нова папка\Homework-Defining Classes\01.Person\obj\Debug\01.Person.exe
+D:\VisualStudio\Нова папка\Homework-Defining Classes\01.Person\obj\Debug\01.Person.pdb
+D:\VisualStudio\Нова папка\Homework-Defining Classes\01.Person\obj\Debug\01.Person.csprojResolveAssemblyReference.cache
+D:\VisualStudio\OOP\Homework-Defining Classes\01.Person\bin\Debug\01.Person.exe.config
+D:\VisualStudio\OOP\Homework-Defining Classes\01.Person\obj\Debug\01.Person.exe
+D:\VisualStudio\OOP\Homework-Defining Classes\01.Person\obj\Debug\01.Person.pdb
+D:\VisualStudio\OOP\Homework-Defining Classes\01.Person\bin\Debug\01.Person.exe
+D:\VisualStudio\OOP\Homework-Defining Classes\01.Person\bin\Debug\01.Person.pdb
+D:\VisualStudio\OOP\Homework-Defining Classes\01.Person\obj\Debug\01.Person.csprojResolveAssemblyReference.cache

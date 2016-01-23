@@ -1,0 +1,10 @@
+D:\VisualStudio\Нова папка\Homework-Defining Classes\03.Pc Catalog\bin\Debug\03.Pc Catalog.exe.config
+D:\VisualStudio\ООП\Homework-Defining Classes\03.Pc Catalog\bin\Debug\03.Pc Catalog.exe.config
+D:\VisualStudio\ООП\Homework-Defining Classes\03.Pc Catalog\bin\Debug\03.Pc Catalog.exe
+D:\VisualStudio\ООП\Homework-Defining Classes\03.Pc Catalog\bin\Debug\03.Pc Catalog.pdb
+D:\VisualStudio\ООП\Homework-Defining Classes\03.Pc Catalog\obj\Debug\03.Pc Catalog.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ООП\Homework-Defining Classes\03.Pc Catalog\obj\Debug\03.Pc Catalog.exe
+D:\VisualStudio\ООП\Homework-Defining Classes\03.Pc Catalog\obj\Debug\03.Pc Catalog.pdb
+D:\VisualStudio\OOP\Homework-Defining Classes\03.Pc Catalog\bin\Debug\03.Pc Catalog.exe.config
+D:\VisualStudio\OOP\Homework-Defining Classes\03.Pc Catalog\obj\Debug\03.Pc Catalog.exe
+D:\VisualStudio\OOP\Homework-Defining Classes\03.Pc Catalog\obj\Debug\03.Pc Catalog.pdb

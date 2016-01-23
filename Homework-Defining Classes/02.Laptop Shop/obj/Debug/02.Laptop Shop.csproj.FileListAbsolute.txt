@@ -1,0 +1,15 @@
+D:\VisualStudio\Нова папка\Homework-Defining Classes\02.Laptop Shop\bin\Debug\02.Laptop Shop.exe.config
+D:\VisualStudio\Нова папка\Homework-Defining Classes\02.Laptop Shop\bin\Debug\02.Laptop Shop.exe
+D:\VisualStudio\Нова папка\Homework-Defining Classes\02.Laptop Shop\bin\Debug\02.Laptop Shop.pdb
+D:\VisualStudio\Нова папка\Homework-Defining Classes\02.Laptop Shop\obj\Debug\02.Laptop Shop.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Нова папка\Homework-Defining Classes\02.Laptop Shop\obj\Debug\02.Laptop Shop.exe
+D:\VisualStudio\Нова папка\Homework-Defining Classes\02.Laptop Shop\obj\Debug\02.Laptop Shop.pdb
+D:\VisualStudio\ООП\Homework-Defining Classes\02.Laptop Shop\bin\Debug\02.Laptop Shop.exe.config
+D:\VisualStudio\ООП\Homework-Defining Classes\02.Laptop Shop\obj\Debug\02.Laptop Shop.exe
+D:\VisualStudio\ООП\Homework-Defining Classes\02.Laptop Shop\obj\Debug\02.Laptop Shop.pdb
+D:\VisualStudio\ООП\Homework-Defining Classes\02.Laptop Shop\bin\Debug\02.Laptop Shop.exe
+D:\VisualStudio\ООП\Homework-Defining Classes\02.Laptop Shop\bin\Debug\02.Laptop Shop.pdb
+D:\VisualStudio\ООП\Homework-Defining Classes\02.Laptop Shop\obj\Debug\02.Laptop Shop.csprojResolveAssemblyReference.cache
+D:\VisualStudio\OOP\Homework-Defining Classes\02.Laptop Shop\bin\Debug\02.Laptop Shop.exe.config
+D:\VisualStudio\OOP\Homework-Defining Classes\02.Laptop Shop\obj\Debug\02.Laptop Shop.exe
+D:\VisualStudio\OOP\Homework-Defining Classes\02.Laptop Shop\obj\Debug\02.Laptop Shop.pdb
